@@ -45,12 +45,14 @@
 <h3>Installing</h3>
 <ol>
   <li>Clone the repository:
+    <pre><code>git clone https://github.com/bhanuj10/IOT-Based-Water-Management-System.git</code></pre>
   </li>
   <li>Install dependencies in Arduino IDE.</li>
   <li>Flash the code to the ESP8266.</li>
 </ol>
 
 <h2 id="hardware-components">🛠️ Hardware Components</h2>
+All the images of the components are described visually in the component diagram.<br><br>
 <ul>
   <li>ESP8266</li>
   <li>RTC Module</li>
@@ -62,6 +64,7 @@
   <li>Li-Ion 18650 3.7V 2000mAh Battery</li>
   <li>10-15m Twisted Pair Wire</li>
   <li>+5V Power Supply</li>
+
 </ul>
 
 <h2 id="features">🚀 Features</h2>
